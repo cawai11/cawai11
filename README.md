@@ -4,7 +4,7 @@
 
 <br/>
 
-# 👋 Cawai Rodrigo Alves dos Santos
+# Cawai Rodrigo Alves dos Santos
 ### Developer .NET • Cloud • Integrações
 
 <p align="center">
@@ -26,14 +26,12 @@
 
 <br/>
 
-<h2 align="center">✨ <em>Sobre mim</em></h2>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" align="right" style="margin-left: 18px;" />
+<h2 align="center"><em>Sobre mim</em></h2>
 
 <p>
 Sou desenvolvedor com foco em <b>.NET</b>, <b>Cloud</b> e <b>Integrações</b>.
-Construo APIs e painéis web, automatizações e soluções containerizadas com <b>Docker</b>,
-com deploy em <b>AWS/Azure</b>, buscando sempre código limpo, observabilidade e arquitetura bem organizada.
+Construo APIs e aplicações web, automações e soluções containerizadas com <b>Docker</b>,
+sempre buscando código limpo, observabilidade e arquitetura bem organizada.
 </p>
 
 <br/>
@@ -48,24 +46,47 @@ com deploy em <b>AWS/Azure</b>, buscando sempre código limpo, observabilidade e
 <br/>
 <br/>
 
-<h2 align="center">🧰 <em>Tecnologias</em></h2>
+<h2 align="center"><em>Tecnologias</em></h2>
 
 <p align="center">
+  <!-- Core -->
   <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Razor_Pages-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dapper-000000?style=for-the-badge&logo=.net&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Web -->
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_API-000000?style=for-the-badge&logo=swagger&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Data / Infra -->
   <img src="https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_EC2-000000?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_Functions-000000?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Cloud / Arch -->
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_Functions-000000?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOLID-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
 <br/>
 <br/>
 
-<h2 align="center">📊 <em>Estatísticas</em></h2>
+<h2 align="center"><em>Estatísticas</em></h2>
 
 <div align="center">
 
@@ -88,13 +109,5 @@ com deploy em <b>AWS/Azure</b>, buscando sempre código limpo, observabilidade e
     src="https://github-readme-activity-graph.vercel.app/graph?username=cawai11&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"
     width="100%"
   />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-⭐ Se curtir algum projeto, manda uma estrela no repositório ⭐
 
 </div>
