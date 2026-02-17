@@ -36,16 +36,6 @@ sempre buscando código limpo, observabilidade e arquitetura bem organizada.
 
 <br/>
 
-<p align="center">
-  <b>• APIs REST e integrações (Webhooks / HTTP)</b><br/>
-  <b>• Docker + Deploy em AWS EC2</b><br/>
-  <b>• Back-end .NET / C# (ASP.NET Core, Razor Pages)</b><br/>
-  <b>• SQL Server e automações</b><br/>
-</p>
-
-<br/>
-<br/>
-
 <h2 align="center"><em>Tecnologias</em></h2>
 
 <p align="center">
