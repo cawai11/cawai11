@@ -4,8 +4,8 @@
 
   <br/>
 
-  <pre><code>Cawai Rodrigo Alves dos Santos
-Developer .NET • Cloud • Integrações</code></pre>
+  <pre>Cawai Rodrigo Alves dos Santos
+Developer .NET • Cloud • Integrações</pre>
 
   <p align="center">
     <a href="https://portfolio-web-5bvh.onrender.com/" target="_blank">
@@ -27,19 +27,19 @@ Developer .NET • Cloud • Integrações</code></pre>
 <br/>
 
 <div align="center">
-  <pre><code>Sobre mim</code></pre>
+  <pre>Sobre mim</pre>
 </div>
 
 <div align="center">
-  <pre><code>Sou desenvolvedor com foco em .NET, Cloud e Integrações.
+  <pre>Sou desenvolvedor com foco em .NET, Cloud e Integrações.
 Construo APIs e aplicações web, automações e soluções containerizadas com Docker,
-sempre buscando código limpo, observabilidade e arquitetura bem organizada.</code></pre>
+sempre buscando código limpo, observabilidade e arquitetura bem organizada.</pre>
 </div>
 
 <br/>
 
 <div align="center">
-  <pre><code>Tecnologias</code></pre>
+  <pre>Tecnologias</pre>
 </div>
 
 <p align="center">
@@ -78,7 +78,7 @@ sempre buscando código limpo, observabilidade e arquitetura bem organizada.</co
 <br/>
 
 <div align="center">
-  <pre><code>Estatísticas</code></pre>
+  <pre>Estatísticas</pre>
 </div>
 
 <div align="center">
